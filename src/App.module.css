@@ -1,0 +1,19 @@
+.App{
+    max-width: 900px;
+    width: 90%;
+margin: auto;
+/* border: 5px solid rebeccapurple; */
+position: relative;
+}
+
+.heading{
+    text-align: center;
+}
+
+.clearAllTodosBtn{
+    margin: auto;
+border: 2px solid pink;
+position: absolute;
+left: 50%;
+transform: translateX(-50%);
+}

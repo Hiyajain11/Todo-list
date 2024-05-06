@@ -1,0 +1,27 @@
+.editForm{
+    border: 2px solid palevioletred;
+    display: flex;
+    height: 50px;
+    align-items: center;
+    border-radius: 5px;
+    justify-content: center;
+    margin-bottom: 1rem;
+    padding: 0.5rem 1rem;
+    
+}
+.editInput{
+    height: 100%;
+    width: 75%;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    padding: 0.5rem;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+.confirmButton{
+    height: 70%;
+    width: 25%;
+    background-color: pink;
+
+}

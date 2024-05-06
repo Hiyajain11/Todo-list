@@ -1,0 +1,29 @@
+.form{
+    border: 2px solid plum;
+    display: flex;
+height: 64px;
+align-items: center;
+border-radius: 5px;
+padding-right:  1rem;
+margin-bottom: 1rem;
+}
+.todoInput{
+    /* border: 2px solid purple; */
+    height: 100%;
+    width: 80%;
+    background-color: transparent;
+    border: none;
+    padding: 0.5rem;
+    outline: none;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+.todoButton{
+    /* border: 2px solid skyblue; */
+    height: 70%;
+    width: 20%;
+    background-color: thistle;
+    color: purple;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
